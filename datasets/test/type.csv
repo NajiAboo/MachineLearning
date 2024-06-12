@@ -1,0 +1,11 @@
+type,datatypeid
+USINT,1
+REAL,2
+UINT,3
+BOOL,4
+UDINT,5
+DINT,6
+STRING,7
+INT,8
+SINT,9
+String,10
