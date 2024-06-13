@@ -1,0 +1,6 @@
+id,name,typeid,subsystemid,deviceid,activeexceptionstatus,flowreading,pressurereading,temperaturereading,positionreadback,positionsetpoint,state,wcstate,operationalstate
+1,MFC1,3,1,,0,200,0,0,0,0,0,false,0
+2,MFC2,3,1,,0,150,0,0,0,0,0,false,0
+3,MFC3,3,1,,0,200,0,0,0,0,0,false,0
+4,MFC4,3,1,,0,300,0,0,0,0,0,false,0
+5,MFC5,3,1,,0,150,0,0,0,0,0,false,0
