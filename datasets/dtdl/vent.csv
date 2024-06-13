@@ -1,0 +1,2 @@
+id,name,typeid,subsystemid,deviceid,open,close
+1,ISON2VentValve,11,2,,false,true
