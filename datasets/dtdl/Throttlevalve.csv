@@ -1,0 +1,2 @@
+id,name,typeid,subsystemid,deviceid,actual_pressure,actual_position,control_mode
+1, ISOThrottleValve,8,2,,0,0,1

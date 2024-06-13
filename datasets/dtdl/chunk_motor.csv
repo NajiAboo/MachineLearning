@@ -1,0 +1,2 @@
+id,name,typeid,subsystemid,deviceid,actual_motor_position,actural_motor_velocity,digital_input_line_status,modes_of_operation_display,position_loop_error,status,status_word,torque_actual_value
+1,Chuck_Motor,12,3,,0,0,0,1,0,0,0,0

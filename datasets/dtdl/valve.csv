@@ -1,0 +1,3 @@
+id,name,typeid,subsystemid,deviceid,open,close
+1,ISOChmbrPrValve,6,2,,true,false
+2,FinalValve,6,2,,true,false
