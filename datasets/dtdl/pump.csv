@@ -1,0 +1,2 @@
+id,name,typeid,subsystemid,deviceid, alaram_feedback,n2_feedback,running_feedback,water_feedback
+1,ISORoughPump,4,2,,false,false,true,true
