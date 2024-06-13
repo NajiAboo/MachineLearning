@@ -1,0 +1,3 @@
+id,name,typeid,subsystemid,deviceid,delta_pressure,active_exception_status,output_value_low_trip,overrange_exceeded,reading_valid,sensor_value,status_high_trip,status_low_trip,underragne_exceeded
+1,ISOPiraniGauge,7,2,,0,0,false,false,false,false,0,false,false,false
+2,ISOChmbrBr10TorrGauge,7,2,,0,0,false,false,false,false,0,false,false,false
