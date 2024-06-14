@@ -1,0 +1,5 @@
+id,externalID,channelName,channelLabel,address,direction,unit,enum,scale,type,samplingPeriod,data.minValue,data.maxValue,data.initialValue,data.value,objectId,directionId,typeId,driverName,ioObject,guageid
+a005d07ffb0fb7d5413792538c1e2441,691,MAIN.ISOChmbrBr10TorrGauge.In.Sensor_Value_Module_1,MAIN_ISOChmbrBr10TorrGauge_In_Sensor_Value_Module_1,,IN,,,,REAL,0,0,0,0,0,54,1,2,TwinCAT,ISOChmbrBr10TorrGauge,2
+5327827d7f979cd441cff532c476dd28,692,MAIN.ISOChmbrBr10TorrGauge.In.Reading_Valid,MAIN_ISOChmbrBr10TorrGauge_In_Reading_Valid,,IN,,,,BOOL,0,0,0,False,False,54,1,4,TwinCAT,ISOChmbrBr10TorrGauge,2
+e9cbbc825a27b49f52b648c0de8d12e5,693,MAIN.ISOChmbrBr10TorrGauge.In.Overrange_Exceeded,MAIN_ISOChmbrBr10TorrGauge_In_Overrange_Exceeded,,IN,,,,BOOL,0,0,0,False,False,54,1,4,TwinCAT,ISOChmbrBr10TorrGauge,2
+c48ea41e5d81f11b690ff0d60d52cee7,694,MAIN.ISOChmbrBr10TorrGauge.In.Underrage_Exceeded,MAIN_ISOChmbrBr10TorrGauge_In_Underrage_Exceeded,,IN,,,,BOOL,0,0,0,False,False,54,1,4,TwinCAT,ISOChmbrBr10TorrGauge,2
