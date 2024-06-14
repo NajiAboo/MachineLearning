@@ -1,0 +1,4 @@
+id,externalID,channelName,channelLabel,address,direction,unit,enum,scale,type,samplingPeriod,data.minValue,data.maxValue,data.initialValue,data.value,objectId,directionId,typeId,driverName,ioObject
+ec1337d326bdb8dc98735711dab04280,654,MAIN.ISON2VentValve.In.Open_fbk,MAIN_ISON2VentValve_In_Open_fbk,,IN,,CloseOpenCmd,,BOOL,0,0,0,False,False,48,1,4,TwinCAT,ISON2VentValve
+7d13f7f2ce68eb88ecebacd6fb2109cc,655,MAIN.ISON2VentValve.In.Close_fbk,MAIN_ISON2VentValve_In_Close_fbk,,IN,,CloseOpenCmd,,BOOL,0,0,0,False,False,48,1,4,TwinCAT,ISON2VentValve
+8f49a7932bc0888ec58c353986debeb7,656,MAIN.ISON2VentValve.Out.Open_cmd,MAIN_ISON2VentValve_Out_Open_cmd,,OUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,48,2,4,TwinCAT,ISON2VentValve
