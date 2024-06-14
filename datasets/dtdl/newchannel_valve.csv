@@ -1,0 +1,7 @@
+id,externalID,channelName,channelLabel,address,direction,unit,enum,scale,type,samplingPeriod,data.minValue,data.maxValue,data.initialValue,data.value,objectId,directionId,typeId,driverName,ioObject,valveid
+97d81b2ef7be19fc2c21e6979215e5f3,665,MAIN.ISOChmbrPrValve.In.Open_fbk,MAIN_ISOChmbrPrValve_In_Open_fbk,,IN,,CloseOpenCmd,,BOOL,0,0,0,False,False,51,1,4,TwinCAT,ISOChmbrPrValve,1
+d4713d9ef28df6c985a01d84aa5c043e,666,MAIN.ISOChmbrPrValve.In.Close_fbk,MAIN_ISOChmbrPrValve_In_Close_fbk,,IN,,CloseOpenCmd,,BOOL,0,0,0,False,False,51,1,4,TwinCAT,ISOChmbrPrValve,1
+d09156b22dc6ae6d4e536521795c9f7f,667,MAIN.ISOChmbrPrValve.Out.Open_cmd,MAIN_ISOChmbrPrValve_Out_Open_cmd,,OUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,51,2,4,TwinCAT,ISOChmbrPrValve,1
+de73aef89d19bc036bf2e5c386312706,723,MAIN.FinalValve.Out.Open_cmd,MAIN_FinalValve_Out_Open_cmd,,OUT,,,,BOOL,0,0,0,False,False,65,2,4,TwinCAT,FinalValve,2
+7832efe4a5066503a186cc8a36ae2bb2,724,MAIN.FinalValve.In.Open_fbk,MAIN_FinalValve_In_Open_fbk,,IN,,,,BOOL,0,0,0,False,False,65,1,4,TwinCAT,FinalValve,2
+4921e14c1126f70ff030fec9b94eae1a,725,MAIN.FinalValve.In.Close_fbk,MAIN_FinalValve_In_Close_fbk,,IN,,,,BOOL,0,0,0,False,False,65,1,4,TwinCAT,FinalValve,2
