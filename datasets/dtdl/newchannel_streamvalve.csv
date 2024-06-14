@@ -1,0 +1,11 @@
+id,externalID,channelName,channelLabel,address,direction,unit,enum,scale,type,samplingPeriod,data.minValue,data.maxValue,data.initialValue,data.value,objectId,directionId,typeId,driverName,ioObject,StreamValveid
+ae3d724b110b29f1d4fe3b1624d253f0,592,MAIN.MFC1_Downstream.Out.On_Off_cmd,MAIN_MFC1_Downstream_Out_On_Off_cmd,,INOUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,18,3,4,TwinCAT,DownStreamValve1,2
+625249f5bd7b71fbd86d5983f2a551eb,593,MAIN.MFC2_Downstream.Out.On_Off_cmd,MAIN_MFC2_Downstream_Out_On_Off_cmd,,INOUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,19,3,4,TwinCAT,DownStreamValve2,4
+12dba8eaf4b63e8857165e929ed49d77,594,MAIN.MFC3_Downstream.Out.On_Off_cmd,MAIN_MFC3_Downstream_Out_On_Off_cmd,,INOUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,20,3,4,TwinCAT,DownStreamValve3,6
+b1ac3d988b10a6b84d540ec770ea9271,595,MAIN.MFC4_Downstream.Out.On_Off_cmd,MAIN_MFC4_Downstream_Out_On_Off_cmd,,INOUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,21,3,4,TwinCAT,DownStreamValve4,9
+20f110fc6980e21e4d3c50296dd0b95b,596,MAIN.MFC5_Downstream.Out.On_Off_cmd,MAIN_MFC5_Downstream_Out_On_Off_cmd,,INOUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,22,3,4,TwinCAT,DownStreamValve5,10
+211b80be21c8391d158451f82e864605,598,MAIN.MFC1_Upstream.Out.On_Off_cmd,MAIN_MFC1_Upstream_Out_On_Off_cmd,,INOUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,24,3,4,TwinCAT,UpStreamValve1,1
+e8b0cbd092601853eb5f1c5520411472,599,MAIN.MFC2_Upstream.Out.On_Off_cmd,MAIN_MFC2_Upstream_Out_On_Off_cmd,,INOUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,25,3,4,TwinCAT,UpStreamValve2,3
+83fb5fee8902415d927daf8829408553,600,MAIN.MFC3_Upstream.Out.On_Off_cmd,MAIN_MFC3_Upstream_Out_On_Off_cmd,,INOUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,26,3,4,TwinCAT,UpStreamValve3,5
+3c0156864fa69f85bffa89befb24ba05,601,MAIN.MFC4_Upstream.Out.On_Off_cmd,MAIN_MFC4_Upstream_Out_On_Off_cmd,,INOUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,27,3,4,TwinCAT,UpStreamValve4,7
+3d53620212c7add4d37ddcf31d947577,602,MAIN.MFC5_Upstream.Out.On_Off_cmd,MAIN_MFC5_Upstream_Out_On_Off_cmd,,INOUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,28,3,4,TwinCAT,UpStreamValve5,8
