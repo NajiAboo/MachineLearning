@@ -1,0 +1,6 @@
+id,externalID,channelName,channelLabel,address,direction,unit,enum,scale,type,samplingPeriod,data.minValue,data.maxValue,data.initialValue,data.value,objectId,directionId,typeId,driverName,ioObject,DTDLPumpid
+059d85bb0d4a5a2d1b47c3771eeeebb0,660,MAIN.ISORoughPump.Out.On_cmd,MAIN_ISORoughPump_Out_On_cmd,,OUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,50,2,4,TwinCAT,ISORoughPump,1
+f571cc7db236758e2469bb9aeac90306,661,MAIN.ISORoughPump.In.Running_fbk,MAIN_ISORoughPump_In_Running_fbk,,IN,,CloseOpenCmd,,BOOL,0,0,0,False,False,50,1,4,TwinCAT,ISORoughPump,1
+0ecafc30a9982368da2c6cdfab7721d7,662,MAIN.ISORoughPump.In.Alarm_fbk,MAIN_ISORoughPump_In_Alarm_fbk,,IN,,CloseOpenCmd,,BOOL,0,0,0,False,False,50,1,4,TwinCAT,ISORoughPump,1
+852e6453f6d15f899f96a02501a1b8ca,663,MAIN.ISORoughPump.In.N2_fbk,MAIN_ISORoughPump_In_N2_fbk,,IN,,CloseOpenCmd,,BOOL,0,0,0,False,False,50,1,4,TwinCAT,ISORoughPump,1
+3cee0aed8d0538bcec0ff70253fe339a,664,MAIN.ISORoughPump.In.Water_fbk,MAIN_ISORoughPump_In_Water_fbk,,IN,,CloseOpenCmd,,BOOL,0,0,0,False,False,50,1,4,TwinCAT,ISORoughPump,1
