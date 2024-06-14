@@ -1,0 +1,4 @@
+id,externalID,channelName,channelLabel,address,direction,unit,enum,scale,type,samplingPeriod,data.minValue,data.maxValue,data.initialValue,data.value,objectId,directionId,typeId,driverName,ioObject,manometerid
+a5814bc7b231aff23747f759a9b34f87,419,MAIN.Manometer1_iso_valve.In.Open_fbk,MAIN_Manometer1_iso_valve_In_Open_fbk,,IN,,CloseOpenCmd,,BOOL,0,0,0,False,False,4,1,4,TwinCAT,Manometer1_iso_valve,1
+3fe377b420d1bda47492aa3b6c3413c6,420,MAIN.Manometer1_iso_valve.In.Close_fbk,MAIN_Manometer1_iso_valve_In_Close_fbk,,IN,,CloseOpenCmd,,BOOL,0,0,0,False,False,4,1,4,TwinCAT,Manometer1_iso_valve,1
+d8b7f5539dc7202703ef13545268f868,421,MAIN.Manometer1_iso_valve.Out.Open_cmd,MAIN_Manometer1_iso_valve_Out_Open_cmd,,OUT,,CloseOpenCmd,,BOOL,0,0,0,False,False,4,2,4,TwinCAT,Manometer1_iso_valve,1
