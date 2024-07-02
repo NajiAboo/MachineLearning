@@ -4,5 +4,5 @@ id,name,moduleid,typeid
 3,ISO1ProcessSubsystem,1,2
 4,DicingRIEGasBox,2,2
 5,DicingRIEPressureSubsystem,2,2
-6.DicingRIEPowerSubsystem,2,2
+6,DicingRIEPowerSubsystem,2,2
 
