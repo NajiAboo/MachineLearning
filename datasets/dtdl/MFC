@@ -4,3 +4,10 @@ id,name,typeid,subsystemid,deviceid,activeexceptionstatus,flowreading,pressurere
 3,MFC3,3,1,,0,200,0,0,0,0,0,false,0
 4,MFC4,3,1,,0,300,0,0,0,0,0,false,0
 5,MFC5,3,1,,0,150,0,0,0,0,0,false,0
+6,MFC7,3,4,,0,100,0,0,0,0,0,false,0
+7,MFC8,3,4,,0,0,0,0,0,0,0,false,0
+8,MFC9,3,4,,0,0,0,0,0,0,0,false,0
+9,MFC10,3,4,,0,0,0,0,0,0,0,false,0
+10,MFC11,3,4,,0,0,0,0,0,0,0,false,0
+11,MFC12,3,4,,0,0,0,0,0,0,0,false,0
+
