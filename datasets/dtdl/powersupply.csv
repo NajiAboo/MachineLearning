@@ -1,2 +1,4 @@
 id,name,typeid,subsystemid,deviceid,Pre Execution Rule,Post Execution Rule,Actual Delivered Power,Actual Reflected Power,Actual Forward Power,Actual Setpoint,OverTemp Error,Interlock Open,Warning_present,Error Present,Control Value Out of Range,ECAT Is Not Active Control,RF ON Requested Indication,RF ON Indication
 1,ISOBias_Power,13,3,,,,0,0,0,0,false,false,false,false,false,false,false,false
+2,RPSPowerSupply,13,3,,,,0,0,0,0,false,false,false,false,false,false,false,false
+3,DicingChamberBias_Power,13,6,,,,0,0,0,0,false,false,false,false,false,false,false,false
